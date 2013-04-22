@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-04-22T19:39:43-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://bananagowoot.github.io/atom.xml" rel="self"/>
+  <link href="http://bananagowoot.github.io/"/>
+  <updated>2013-04-22T19:45:19-04:00</updated>
+  <id>http://bananagowoot.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://bananagowoot.github.io/blog/2013/04/22/test/"/>
+    <updated>2013-04-22T19:44:00-04:00</updated>
+    <id>http://bananagowoot.github.io/blog/2013/04/22/test</id>
+    <content type="html"><![CDATA[<h3>TEST POST</h3>
+]]></content>
+  </entry>
   
 </feed>
