@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Steph]]></title>
   <link href="http://bananagowoot.github.io/atom.xml" rel="self"/>
   <link href="http://bananagowoot.github.io/"/>
-  <updated>2013-04-22T20:00:07-04:00</updated>
+  <updated>2013-04-23T00:08:29-04:00</updated>
   <id>http://bananagowoot.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,27 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[title of post]]></title>
-    <link href="http://bananagowoot.github.io/blog/2013/04/22/title-of-post/"/>
-    <updated>2013-04-22T19:59:00-04:00</updated>
-    <id>http://bananagowoot.github.io/blog/2013/04/22/title-of-post</id>
-    <content type="html"><![CDATA[<p>Teasdflsdfoajsdfoaewf
-afasdfsadojfaejoifewa
-fasijfoaesjofawe
-fadsjf
-dsafsdafojasdfojasd
-fad
-faweijoaewojfawef
-aew</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://bananagowoot.github.io/blog/2013/04/22/test/"/>
-    <updated>2013-04-22T19:44:00-04:00</updated>
-    <id>http://bananagowoot.github.io/blog/2013/04/22/test</id>
-    <content type="html"><![CDATA[<h3>TEST POST</h3>
+    <title type="html"><![CDATA[Mission Statement]]></title>
+    <link href="http://bananagowoot.github.io/blog/2013/04/23/mission-statement/"/>
+    <updated>2013-04-23T00:07:00-04:00</updated>
+    <id>http://bananagowoot.github.io/blog/2013/04/23/mission-statement</id>
+    <content type="html"><![CDATA[<p>Live within the times, live beyond the times.</p>
 ]]></content>
   </entry>
   
